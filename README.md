@@ -1,49 +1,28 @@
 # tutoria-14
 
-## ✍️ Parte 1: Diario de transformación
+## ✍️ Parte 1: Escuchando a mi cuerpo mientras aprendo
 Reflexiona brevemente sobre:
 
-🪞 ¿Quién era yo al comenzar este ciclo? ¿Qué pensaba, sentía o temía?
+🧘‍♀️ ¿Cómo se sintió tu cuerpo durante la actividad física realizada?
+Durante la actividad física, mi cuerpo se sintió más liviano y relajado. Al principio sentí algo de tensión acumulada por estar mucho tiempo frente al computador, pero conforme me movía, sentí que esa rigidez disminuía.
 
-Yo este ciclo lo inicie tranquilo, confiado de mis conocimientos y experiencia que gane en las pasantias.
+🧠 ¿Hubo alguna diferencia en tu energía o enfoque después de moverte?
+Sí, definitivamente. Después de moverme, noté que mi enfoque mejoró y pude retomar mis actividades con más claridad mental. Me sentí menos abrumado y más organizado para continuar con mis tareas técnicas.
 
-🔁 ¿Qué ha cambiado en mi forma de actuar, pensar o relacionarme?
+📉 ¿Notas signos de fatiga o tensión cuando estudias mucho tiempo seguido?
+Sí, especialmente cuando paso varias horas seguidas frente a la pantalla. Siento tensión en el cuello y la espalda, y también noto que mi concentración disminuye con el tiempo.
 
-Siento que controlo mejor mis emociones y actuo de forma más precavida.
+🌤️ ¿Cómo podrías integrar más movimiento en tu rutina sin dejar de ser productiv@?
+Podría hacer pausas activas entre tareas o reuniones, aprovechando esos momentos para caminar, estirarme o hacer ejercicios breves. También puedo integrar caminatas ligeras antes de volver a programar o redactar, para despejar la mente sin perder productividad.
 
-🌟 ¿Qué fue lo más valioso que aprendí sobre mí mismo?
+## 🚀 Parte 2: Plan personal de bienestar físico
+Crea una pequeña propuesta con:
 
-Que soy capaz de lograr mis propósitos con tiempo y perseverancia.
+✅ Actividad física ligera que puedes mantener semanalmente
+Caminatas breves al aire libre después de sesiones largas de estudio o desarrollo. También estiramientos de espalda y cuello antes de dormir.
 
-💡 ¿Estoy más cerca de lo que quiero ser o lograr?
+💡 Razón personal para mantener este hábito
+Quiero reducir la tensión física acumulada por estar frente al computador muchas horas y así mantenerme con energía y enfoque, sobre todo al trabajar en proyectos como ReservaTec o mis informes técnicos.
 
-Siento que sí, cada día aprendo nuevas cosas, y también aprendo y practico con las nuevas tecnologías.
-
-## 📸 Parte 2: Mi línea del tiempo emocional
-Crea una breve línea del tiempo (puede ser escrita o visual) con al menos 5 hitos personales del ciclo. En cada hito, responde:
-
-📍 ¿Qué ocurrió en ese momento?
-Inicio de ciclo
-📍 Comencé las pasantías con confianza en mis conocimientos.
-💬 Me sentí tranquilo y seguro.
-🎯 Reafirmé que la experiencia previa me da bases sólidas.
-
-Primer desafío técnico
-📍 Enfrenté un problema complejo en un proyecto.
-💬 Sentí frustración al inicio, pero luego motivación.
-🎯 Aprendí que puedo resolver cosas bajo presión.
-
-Feedback positivo
-📍 Mi líder destacó mi aporte en un trabajo en equipo.
-💬 Me sentí valorado y más comprometido.
-🎯 Confirmé que mi esfuerzo constante da resultados.
-
-Error y aprendizaje
-📍 Cometí un fallo, pero lo corregí con ayuda.
-💬 Alivio y humildad al aceptar apoyo.
-🎯 Aprendí que pedir ayuda es parte del crecimiento.
-
-Nuevas tecnologías
-📍 Me capacité en una herramienta innovadora.
-💬 Emoción por ampliar mis habilidades.
-🎯 Reafirmé que me adapto bien a los cambios.
+📅 Horario tentativo sugerido
+Martes, jueves y sábados por la tarde (después de almorzar o terminar una sesión de trabajo intensa). Incluso 15 a 20 minutos pueden hacer una diferencia positiva.
